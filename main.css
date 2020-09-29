@@ -1,6 +1,4 @@
-body {
-  background-color:DodgerBlue
-}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -31,7 +29,7 @@ body {
 
 body {
     padding-top: 50px,
-     
+    background-color: lightblue;
 }
 
 .button {
