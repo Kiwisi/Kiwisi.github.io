@@ -8,7 +8,9 @@ body {
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #ffdf00;
-  
+  overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 .greyboxclassnamehere{
