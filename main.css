@@ -5,6 +5,10 @@ body {
     color: White;
 }
 
+img {
+  border-radius: 50%;
+}
+
 #colorblack {
  color:black;
 }
