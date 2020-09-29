@@ -1,6 +1,6 @@
 
 body {
-    
+    font-family: Arial;
     background-color: Black;
     color: White;
 }
@@ -109,11 +109,6 @@ li.dropdown {
   box-sizing: border-box;
 }
 
-body {
-  background-color: #f1f1f1;
-  padding: 20px;
-  font-family: Arial;
-}
 
 /* Center website */
 .main {
@@ -153,7 +148,7 @@ h1 {
 .content {
   background-color: white;
   padding: 10px;
-    text-align: center;
+    
     
 }
 
