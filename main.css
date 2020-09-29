@@ -23,7 +23,7 @@ background-color: #ffdf00
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -64,7 +64,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #ffdf00;
-  color: black;
+  
 }
 
 li {
