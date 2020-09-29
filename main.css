@@ -1,14 +1,12 @@
 
 body {
     font-family: Arial;
-    background-color: Black;
+  background-color: black;
+  background-image:        url('https://kiwisi.github.io/background.jpg');"
     color: White;
     
 }
-body html head { 
-    margin:0px; 
-    padding: 0px;
-}
+html, body { margin: 0; padding: 0; }
 
 .spacer {
   clear:left;
