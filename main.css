@@ -5,6 +5,7 @@ body {
     color: White;
     
 }
+body html head { margin:0px; padding:0px; }
 
 .spacer {
   clear:left;
