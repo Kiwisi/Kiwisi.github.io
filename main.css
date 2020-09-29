@@ -11,6 +11,14 @@ body {
   overflow: hidden;
 }
 
+.greyboxclassnamehere{
+position: absolute;
+left: 0px;
+top: 0px;
+width: 800px;
+height: 100px;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
