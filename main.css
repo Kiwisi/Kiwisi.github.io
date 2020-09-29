@@ -25,7 +25,7 @@ img {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #ffdf00;
+  background-color: #ffe632;
 
   overflow: hidden;
     margin: 0;
@@ -38,7 +38,7 @@ left: 0px;
 top: 0px;
 width: 800px;
 height: 100px;
-background-color: #ffdf00
+background-color: #ffe632;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -79,7 +79,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffdf00;
+  background-color: #ffe632;
   
 }
 li {
@@ -166,7 +166,7 @@ h1 {
 
 /* Content */
 .content {
-  background-color: #ffdf00;
+  background-color: #ffe632;
   padding: 10px;
   text-align: center;
     
