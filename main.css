@@ -6,6 +6,12 @@ body {
     
 }
 
+.spacer {
+  clear:left;
+  height:25px;
+  margin: 20px;  // See below for explanation of this
+ }
+
 img {
   border-radius: 50%;
 }
