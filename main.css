@@ -153,8 +153,8 @@ h1 {
 .content {
   background-color: white;
   padding: 10px;
-    text-align: justify;
-    width: [width of img];
+    text-align: center;
+    
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
