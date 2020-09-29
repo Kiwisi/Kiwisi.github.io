@@ -110,3 +110,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.active {
+  background-color: black;
+  color: white;
+}
