@@ -5,6 +5,12 @@ body {
     color: White;
 }
 
+p {
+    padding-top: 5px,
+    background-color: Black;
+    color: White;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
