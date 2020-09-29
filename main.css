@@ -1,41 +1,53 @@
-
 body {
-    font-family: Arial;
-    background-color: black;
-    color: White;
-    
+  font-family: Arial;
+  background-color: black;
+  color: White;
 }
-html, body { margin: 0; padding: 0; }
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h5 {
+  background-color: #ffe632;
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  color: black;
+  width: 900px;
+  box-sizing: border-box;
+}
 
 .spacer {
-  clear:left;
-  height:25px;
-  margin: 20px;  // See below for explanation of this
- }
+  clear: left;
+  height: 25px;
+  margin: 20px; // See below for explanation of this
+}
 
 img {
   border-radius: 50%;
 }
 
 #colorblack {
- color:black;
+  color: black;
 }
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #ffe632;
 
   overflow: hidden;
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-.greyboxclassnamehere{
-position: absolute;
-left: 0px;
-top: 0px;
-width: 800px;
-height: 100px;
-background-color: #ffe632;
+.greyboxclassnamehere {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 800px;
+  height: 100px;
+  background-color: #ffe632;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -67,9 +79,16 @@ background-color: #ffe632;
   margin: 4px 2px;
   cursor: pointer;
 }
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
-
+.button1 {
+  background-color: black;
+  color: white;
+  border: 3px solid #ffe632; /* Green */
+  padding: 16px;
+  font-size: 20px;
+} /* Green */
+.button2 {
+  background-color: #008cba;
+} /* Blue */
 
 ul {
   list-style-type: none;
@@ -82,16 +101,18 @@ ul {
 li {
   float: left;
 }
-li a, .dropbtn {
+li a,
+.dropbtn {
   display: inline-block;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-li a:hover, .dropdown:hover .dropbtn {
+li a:hover,
+.dropdown:hover .dropbtn {
   background-color: black;
-    color: white;
+  color: white;
 }
 li.dropdown {
   display: inline-block;
@@ -101,7 +122,7 @@ li.dropdown {
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 .dropdown-content a {
@@ -111,7 +132,9 @@ li.dropdown {
   display: block;
   text-align: left;
 }
-.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
 .dropdown:hover .dropdown-content {
   display: block;
 }
@@ -120,12 +143,9 @@ li.dropdown {
   color: white;
 }
 
-
 * {
   box-sizing: border-box;
-  
 }
-
 
 /* Center website */
 .main {
@@ -166,7 +186,6 @@ h1 {
   background-color: #ffe632;
   padding: 10px;
   text-align: center;
-    
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
