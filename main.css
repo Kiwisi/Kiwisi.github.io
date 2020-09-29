@@ -10,6 +10,10 @@ body {
   padding: 0;
 }
 
+.round {
+  border-radius: 50%;
+}
+
 h5 {
   background-color: #ffe632;
   padding: 20px;
