@@ -5,8 +5,8 @@ body {
     color: White;
 }
 
-p {
-    color: black;
+#colorblack {
+ color:black;
 }
 /* Add a black background color to the top navigation */
 .topnav {
