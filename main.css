@@ -2,16 +2,11 @@ body {
   font-family: Arial;
   background-color: black;
   color: White;
-  padding: 20px;
 }
 html,
 body {
   margin: 0;
   padding: 0;
-}
-
-.round {
-  border-radius: 50%;
 }
 
 h5 {
@@ -26,11 +21,15 @@ h5 {
 
 .spacer {
   clear: left;
-  height: 25px;
+  height: 60px;
   margin: 20px; // See below for explanation of this
 }
 
 
+
+img {
+  border-radius: 50%;
+}
 
 #colorblack {
   color: black;
@@ -99,7 +98,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #ffe632;
-  
 }
 li {
   float: left;
