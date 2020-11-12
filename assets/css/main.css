@@ -118,7 +118,7 @@ input, select, textarea {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 5px 5px;
+  padding: 35px 35px;
 }
 
 /* Create two equal columns that sits next to each other */
