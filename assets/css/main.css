@@ -130,7 +130,18 @@ input, select, textarea {
 .column img {
   margin-top: 5px;
   vertical-align: middle;
-  box-shadow: 5px 10px 10px #666363;
+  
+}
+
+img:hover {
+    -moz-transform: translate(-2px, -2px);
+    -ms-transform: translate(-2px, -2px);
+    -o-transform: translate(-2px, -2px);
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px)
+     box-shadow: 10px 10px 5px #065ba1;
+  -moz-box-shadow: 0px 10px 5px #065ba1;
+-webkit-box-shadow: 0px 10px 5px #065ba1;  
 }
 
 /* Type */
