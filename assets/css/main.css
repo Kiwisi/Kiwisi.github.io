@@ -130,6 +130,7 @@ input, select, textarea {
 .column img {
   margin-top: 5px;
   vertical-align: middle;
+  box-shadow: 5px 10px 10px #000000;
 }
 
 /* Type */
